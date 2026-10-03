@@ -1,2 +1,2 @@
 # Linux-Login-Security-Tracker
-A Bash-based Linux Login &amp; Logout Security Tracker for monitoring login activity, detecting failed attempts, identifying and blocking suspicious IPs, searching user activity, generating security reports, and preparing data for web-based monitoring.
+A Bash-based Linux Login & Logout Monitoring and Intrusion Detection System that tracks successful and failed login attempts, monitors login and logout activities, detects suspicious IP addresses, blocks suspicious IPs, provides a web-based monitoring dashboard, and generates reports.
